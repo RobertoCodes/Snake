@@ -42,3 +42,9 @@ Snake.prototype.turn = function (dir) {
     this.dir = dir;
   }
 };
+
+var Board = function (size) {
+  this.size = size;
+  this.snake = new Snake(this);
+  this.food = new Food(this);
+};
