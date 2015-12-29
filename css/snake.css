@@ -25,9 +25,7 @@ h1 {
 figure {
   display: inline-block;
   border: 10px solid black;
-  /*background: transparent;
-  background-image: -webkit-gradient(linear,left top,left bottom,from(#adcc9d),to(#9dbc8d));*/
-  background-image: url("../Snake/background.png");
+  background-image: url("../../Snake/img/background.png");
 }
 
 .group:after {
@@ -42,7 +40,7 @@ figure {
   margin: auto;
   padding: 15px;
   background: transparent;
-  background-image: url("../Snake/background.png");
+  background-image: url("../../Snake/img/background.png");
 
 }
 
@@ -127,11 +125,11 @@ li {
 }
 
 .food {
-  background-image: url("../Snake/food.png");
+  background-image: url("../../Snake/img/food.png");
 }
 
 .snake {
-  background-image: url("../Snake/snake.png");
+  background-image: url("../../Snake/img/snake.png");
 }
 
 #Scoreboard {
