@@ -1,8 +1,11 @@
 # Snake
+[Play Game!][Play Game!]
 
-Browser version of Nokia's classic mobile game written in JavaScript. 
+[Play Game!]: http://robertocodes.github.io/Snake/index.html
 
-Registers player keypresses using jQuery event handling. 
+Browser version of Nokia's classic mobile game written in JavaScript.
+
+Registers player keypresses using jQuery event handling.
 
 ## Features
 - [ ] Registers player keypresses using jQuery event handling
